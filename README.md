@@ -128,6 +128,9 @@ The strongest tabular models use leakage-safe temporal features:
 
 This feature design is important because EV charging demand is sparse, seasonal, station-specific, and spike-prone.
 
+## 📄 Report
+Full project report available [here](https://drive.google.com/file/d/1Vec4XLINU-9FfYOpcnQOJ0ahMS0RjFHC/view?usp=sharing).
+
 ## Interpretation
 
 The forecasts are intended as decision-support signals for charger planning and operational monitoring. They should be interpreted alongside real-world constraints such as site capacity, charger availability, electrical infrastructure, parking policy, equity priorities, and budget.
